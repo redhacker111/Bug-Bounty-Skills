@@ -51,7 +51,7 @@ Written by third parties for **authorized** security testing only. Read any skil
 | **Gabson0x/bountyforge** | Parallelized agents for smart-contract + web/API hunting |
 | **WolzenGeorgi/claude-skills-pentest** | Automated VPS-based pentest scanning |
 
-> 🔍 **Want your repo here?** PR a line into `sources.txt` — attribution is automatic and permanent.
+> 🔍 **Want your repo here?** PR a line into `sources.txt` — attribution is automatic and permanent
 
 ## 📄 License
 
